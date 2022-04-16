@@ -48,4 +48,6 @@
 
 <p>
 <a href="mailto:thetypgame@gmail.com"><img alt="Email" src="https://img.shields.io/badge/thetypgame@gmail.com-333333?style=flat-square&logo=gmail"></a>
+<a href="https://t.me/chu_dici"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-333333?style=flat-square&logo=telegram"></a>
+<a href="https://vk.com/gde_moj_chay"><img alt="VK" src="https://img.shields.io/badge/VK-333333?style=flat-square&logo=vk&logoColor=0077FF"></a>
 </p>

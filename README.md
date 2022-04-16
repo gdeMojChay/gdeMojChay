@@ -44,7 +44,7 @@
 
 <br/>
 
-<h3> Connect with me </h3>
+<h3> 📨 &nbsp;Connect with me </h3>
 
 <p>
 <a href="mailto:thetypgame@gmail.com"><img alt="Email" src="https://img.shields.io/badge/thetypgame@gmail.com-333333?style=flat-square&logo=gmail"></a>

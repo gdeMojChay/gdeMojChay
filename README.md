@@ -39,7 +39,7 @@
 
 <a href="https://github.com/gdeMojChay">
   <img width="580em" src="https://github-readme-stats.vercel.app/api?username=gdeMojChay&theme=tokyonight&show_icons=true" />
-  <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeMojChay&theme=tokyonight&layout=compact" />
+  <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdeMojChay&theme=tokyonight&layout=compact&hide=XSLT" />
 </a>
 
 <br/>

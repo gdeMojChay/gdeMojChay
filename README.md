@@ -44,6 +44,12 @@
 
 <br/>
 
+<a href="https://www.codewars.com/users/gdeMojChay">
+  <img width="580em" src="https://www.codewars.com/users/gdeMojChay/badges/large" />
+</a>
+
+<br/>
+
 <h3> 📨 &nbsp;Connect with me </h3>
 
 <p>

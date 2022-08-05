@@ -44,8 +44,8 @@
 
 <br/>
 
-<a href="https://www.codewars.com/users/I2700I">
-  <img width="580em" src="https://www.codewars.com/users/I2700I/badges/large" />
+<a href="https://www.codewars.com/users/l2700l">
+  <img width="580em" src="https://www.codewars.com/users/l2700l/badges/large" />
 </a>
 
 <br/>

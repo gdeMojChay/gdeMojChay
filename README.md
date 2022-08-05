@@ -38,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/I12700I">
-  <img width="580em" src="https://github-readme-stats.vercel.app/api?username=I2700I&theme=tokyonight&show_icons=true" />
-  <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I2700I&theme=tokyonight&layout=compact&hide=XSLT,HTML,CSS" />
+  <img width="580em" src="https://github-readme-stats.vercel.app/api?username=l2700l&theme=tokyonight&show_icons=true" />
+  <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l2700l&theme=tokyonight&layout=compact&hide=XSLT,HTML,CSS" />
 </a>
 
 <br/>
@@ -54,6 +54,6 @@
 
 <p>
 <a href="mailto:thetypgame@gmail.com"><img alt="Email" src="https://img.shields.io/badge/thetypgame@gmail.com-333333?style=flat-square&logo=gmail"></a>
-<a href="https://t.me/I2700I"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-333333?style=flat-square&logo=telegram"></a>
-<a href="https://vk.com/I2700I"><img alt="VK" src="https://img.shields.io/badge/VK-333333?style=flat-square&logo=vk&logoColor=0077FF"></a>
+<a href="https://t.me/l2700l"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-333333?style=flat-square&logo=telegram"></a>
+<a href="https://vk.com/l2700l"><img alt="VK" src="https://img.shields.io/badge/VK-333333?style=flat-square&logo=vk&logoColor=0077FF"></a>
 </p>

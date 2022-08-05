@@ -38,14 +38,14 @@
 <br/>
 
 <a href="https://github.com/I12700I">
-  <img width="580em" src="https://github-readme-stats.vercel.app/api?username=I12700I&theme=tokyonight&show_icons=true" />
-  <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I12700I&theme=tokyonight&layout=compact&hide=XSLT,HTML,CSS" />
+  <img width="580em" src="https://github-readme-stats.vercel.app/api?username=I2700I&theme=tokyonight&show_icons=true" />
+  <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I2700I&theme=tokyonight&layout=compact&hide=XSLT,HTML,CSS" />
 </a>
 
 <br/>
 
-<a href="https://www.codewars.com/users/I12700I">
-  <img width="580em" src="https://www.codewars.com/users/I12700I/badges/large" />
+<a href="https://www.codewars.com/users/I2700I">
+  <img width="580em" src="https://www.codewars.com/users/I2700I/badges/large" />
 </a>
 
 <br/>

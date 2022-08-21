@@ -47,12 +47,6 @@
 
 <br/>
 
-<a href="https://www.codewars.com/users/l2700l">
-  <img width="580em" src="https://www.codewars.com/users/l2700l/badges/large" />
-</a>
-
-<br/>
-
 <h3> 📨 &nbsp;Connect with me </h3>
 
 <p>

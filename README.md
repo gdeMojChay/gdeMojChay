@@ -1,4 +1,4 @@
-<img align="left" alt="girl" src="https://thumbs.gfycat.com/ThunderousRecklessHumpbackwhale-size_restricted.gif" width="140"/>
+<img align="left" alt="girl" src="https://thumbs.gfycat.com/ThunderousRecklessHumpbackwhale-size_restricted.gif" width="165"/>
 
 ```typescript
 export class Local extends Developer {

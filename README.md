@@ -40,7 +40,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 <br/>
 
-<a href="https://github.com/I12700I">
+<a href="https://github.com/l2700l">
   <img width="580em" src="https://github-readme-stats.vercel.app/api?username=l2700l&theme=tokyonight&show_icons=true" />
   <img width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l2700l&theme=tokyonight&layout=compact&hide=XSLT,HTML,CSS" />
 </a>

@@ -10,7 +10,7 @@ export class Local extends Developer {
   WorksIn: string = "Tap Team";
   
   public greeting(whom: string): string {
-    console.log(this.Username, "greet", whom)
+    console.log(this.Username, "greet", whom);
   }
 }
 ```

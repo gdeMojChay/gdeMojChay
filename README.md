@@ -1,4 +1,4 @@
-<img align="left" alt="girl" src="https://thumbs.gfycat.com/ThunderousRecklessHumpbackwhale-size_restricted.gif" width="165"/>
+<img align="left" alt="girl" src="https://thumbs.gfycat.com/ThunderousRecklessHumpbackwhale-size_restricted.gif" width="220"/>
 
 ```typescript
 export class Local extends Developer {
@@ -7,7 +7,12 @@ export class Local extends Developer {
   Languages: string[] = ["Python", "C#", "JavaScript", "TypeScript"];
   Utils: string[] = ["Figma", "Docker", "Dokku", "Terminal"];
   Hobbies: string[] = ["Videogames", "Coding", "Watching anime"];
-  WorksIn: string = "Tap Team";
+  WorksIn: { [key: string]: any } = {
+    "Tap Team": {
+      GitHub: "https://github.com/Tap-Team",
+      VK: "https://vk.com/tap_team_studio",
+    },
+  };
   
   public greeting(whom: string): string {
     console.log(this.Username, "greet", whom);

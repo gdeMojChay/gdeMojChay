@@ -5,7 +5,7 @@ export class Local extends Developer {
   Username: string = "Local";
   WhoAmI: string = "Full stack developer";
   Languages: string[] = ["Python", "C#", "JavaScript", "TypeScript"];
-  Utils: string[] = ["Figma", "Docker", "Dokku", "Emulator"];
+  Utils: string[] = ["Figma", "Docker", "Dokku", "Simulator"];
   Hobbies: string[] = ["Videogames", "Coding", "Watching anime"];
   WorksIn: { [key: string]: any } = {
     "Tap Team": {

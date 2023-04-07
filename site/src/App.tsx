@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './App.css';
+import './nyan_cat.scrollbar.css';
 import Terminal from './components/terminal/Terminal';
 
 const startMessage = `
@@ -28,7 +29,7 @@ function App() {
           width: '90vw',
           marginLeft: 'auto',
           marginRight: 'auto',
-          height: '650px',
+          height: '1000px',
         }}
       >
         <Terminal

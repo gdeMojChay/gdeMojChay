@@ -24,7 +24,7 @@ whoiam
     – show user
 mkdir <path>
     – create directory
-touch <path> [data]
+nano <path> [data]
     – create file
 rm [-R] <path>
     - remove file or directory
@@ -236,7 +236,7 @@ const Simulator: React.FC<{
     return create(path, {});
   };
 
-  const touch = (path: string, data: string = ''): string => {
+  const nano = (path: string, data: string = ''): string => {
     return create(path, data);
   };
 
@@ -355,14 +355,14 @@ const Simulator: React.FC<{
           { output: mkdirOutput, path: currentPath },
         ]);
         break;
-      case Commands.touch:
-        const touchOutput = touch(
+      case Commands.nano:
+        const nanoOutput = nano(
           command[1],
           command.slice(2, command.length).join(' ') || ''
         );
         setOutputs((prevState) => [
           ...prevState,
-          { output: touchOutput, path: currentPath },
+          { output: nanoOutput, path: currentPath },
         ]);
         break;
       case Commands.echo:

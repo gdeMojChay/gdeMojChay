@@ -1,9 +1,8 @@
+@import '../../_variables.scss';
 $simulatorBackground: #282A34;
-$userText: #A380DA;
 $computerText: #5FBDAD;
 $atText: #75C6D0;
 $pathText: #FF479C;
-$commandText: #7CC9DC;
 .simulator {
     font-family: 'Consola Mono', Arial, serif;
     background-color: $simulatorBackground;

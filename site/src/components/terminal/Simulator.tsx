@@ -261,7 +261,7 @@ const Simulator: React.FC<{
       });
     }
     if (e.key !== 'Enter') {
-      inputRef?.current?.scrollIntoView({ block: 'end', behavior: 'smooth' });
+      inputRef?.current?.scrollIntoView({ behavior: 'smooth' });
       return;
     }
     const command = commands[commands.length - 1].split(' ');
@@ -277,7 +277,6 @@ const Simulator: React.FC<{
       setTimeout(
         () =>
           inputRef?.current?.scrollIntoView({
-            block: 'end',
             behavior: 'smooth',
           }),
         1
@@ -421,8 +420,7 @@ const Simulator: React.FC<{
       return [...prevState, ''];
     });
     setTimeout(
-      () =>
-        inputRef?.current?.scrollIntoView({ block: 'end', behavior: 'smooth' }),
+      () => inputRef?.current?.scrollIntoView({ behavior: 'smooth' }),
       1
     );
   };

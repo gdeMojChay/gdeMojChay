@@ -4,10 +4,10 @@
 export class Local extends Developer {
   Username: string = "Local";
   WhoAmI: string = "Full stack developer";
-  Languages: string[] = ["Python", "C#", "JavaScript", "TypeScript"];
-  Utils: string[] = ["Figma", "Docker", "Dokku", "Simulator"];
+  Languages: string[] = ["Python", "C#", "TypeScript"];
+  Utils: string[] = ["Figma", "Docker", "Dokku"];
   Hobbies: string[] = ["Videogames", "Coding", "Watching anime"];
-  WorksIn: { [key: string]: any } = {
+  WorksIn: Record<string, Record<string, string>> = {
     "Tap Team": {
       GitHub: "https://github.com/Tap-Team",
       VK: "https://vk.com/tap_team_studio",
